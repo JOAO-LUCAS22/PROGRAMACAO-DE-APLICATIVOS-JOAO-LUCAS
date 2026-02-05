@@ -10,3 +10,9 @@ REPOSITÓRIO DAS ATIVIDADES DAS AULAS
 # "git commit -m" comandos basicos do git.
 4) Enviar alteracoes para GitHub:
 # "git push" 
+
+
+## BRANCH
+
+1) mostrar branches no computador:
+# "git branch"
